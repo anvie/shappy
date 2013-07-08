@@ -1,18 +1,24 @@
-
-h2. Shappy
+Shappy
+========
 
 
 Is a sysadmin happy tools.
 
-h2. Modules
+Modules
+=========
 
 
-# Gitize
-## Install
+1. Gitize
+  
+Install
+
 ```
 $ curl https://raw.github.com/anvie/shappy/master/gitize.sh | sh
 ```
-## Test: 
+
+
+Test: 
+
 ``` 
 $ git br
 ```
